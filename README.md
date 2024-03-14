@@ -6,8 +6,8 @@
 
 <table >
  <tr> <td > <div align="center"><b>Языки</b></div> </td> <td> <div align="center"><b>Инструменты<b/></div> </td> <td> <div align="center"><b>Фреймворки<b/></div> </td> </tr>
- <tr> <td> <div>   <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_HTML5_color.png" title="HTML5" alt="HTML5" width="45" height="45"/> 
-<img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_CSS3_color.png" title="CSS3" alt="CSS3" width="45" height="45"/> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_JavaScript_color.png" title="JavaScript" alt="JavaScript" width="45" height="45"/> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png" title="sql" alt="sql" width="45" height="45"/>
+ <tr> <td> <div>   <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_HTML5_color.png" title="HTML5" alt="HTML5" width="50" height="50"/> 
+<img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_CSS3_color.png" title="CSS3" alt="CSS3" width="50" height="50"/> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_JavaScript_color.png" title="JavaScript" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_SQL_color.png" title="sql" alt="sql" width="45" height="45"/>
 </div>  </td>  <td> <div> <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_Docker_color.png" title="Docker" alt="Docker" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="45" height="45"/> 
 <img src="https://github.com/ElviraAnisenko/ElviraAnisenko/blob/main/icons/tools_IntelliJ_IDEA_color.png" title="IDEA" alt="IDEA" width="45" height="45"/> 
