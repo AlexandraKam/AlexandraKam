@@ -13,6 +13,7 @@
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools__XML_color.png" title="XML" alt="XML" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_JSX_color.png" title="JSX" alt="JSX" width="50" height="50"/> 
+<img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/jest-logo.png" title="jest" alt="jest" width="50" height="40"/>
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_Flexbox_color.png" title="Flexbox" alt="Flexbox" width="50" height="50"/>
 </div>  </td> 
  <td> <div> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_React_color.png" title="React" alt="React" width="50" height="50"/>
