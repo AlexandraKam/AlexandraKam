@@ -4,22 +4,16 @@
 
 ### Стек
 
-<table >
- <tr> <td > <div align="center"><b>Языки</b></div> </td> <td> <div align="center"><b>Инструменты<b/></div> </td> <td> <div align="center"><b>Фреймворки<b/></div> </td> </tr>
- <tr> <td> <div>   <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_HTML5_color.png" title="HTML5" alt="HTML5" width="50" height="50"/> 
+<div>   <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_HTML5_color.png" title="HTML5" alt="HTML5" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_CSS3_color.png" title="CSS3" alt="CSS3" width="50" height="50"/> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_JavaScript_color.png" title="JavaScript" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_PHP_color.png" title="PHP" alt="PHP" width="50" height="50"/>
-</div>  </td>  <td> <div>  
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_API_color.png" title="API" alt="API" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools__XML_color.png" title="XML" alt="XML" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_GitHub_color.png" title="GitHub" alt="GitHub" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_JSX_color.png" title="JSX" alt="JSX" width="50" height="50"/> 
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/jest-logo.png" title="Jest" alt="Jest" width="50" height="40"/>
 <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_Flexbox_color.png" title="Flexbox" alt="Flexbox" width="50" height="50"/>
-</div>  </td> 
- <td> <div> <img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_React_color.png" title="React" alt="React" width="50" height="50"/>
-</div>  </td> 
-</tr>
-</table>
+<img src="https://github.com/AlexandraKam/AlexandraKam/blob/main/icons/tools_React_color.png" title="React" alt="React" width="50" height="50"/>
+</div>  
 
 ### Портфолио
 
