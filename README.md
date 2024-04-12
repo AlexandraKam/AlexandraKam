@@ -41,6 +41,7 @@
 ### Сертификаты и дипломы
 
 * [Веб-разработчик с нуля](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/certificate.pdf)
+* [Хакатон Upgrade](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/Каменева%20Александра.pdf)
 * [HTML-верстка: с нуля до первого макета](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/certificate%20(1).pdf)
 * [Адаптивная и мобильная верстка](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/certificate%20(2).pdf)
 * [Основы программирования](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/certificate%20(3).pdf)
