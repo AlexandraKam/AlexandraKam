@@ -38,7 +38,7 @@
 используемые технологии: InertiaJS, React, Laravel
 
 
-### Сертификаты и дипломы
+### Сертификаты, хакатоны и дипломы
 
 * [Веб-разработчик с нуля](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/certificate.pdf)
 * [Хакатон Upgrade](https://github.com/AlexandraKam/AlexandraKam/blob/main/certificates/Каменева%20Александра.pdf)
